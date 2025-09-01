@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="assets/images/github-logo.png" alt="GitHub Logo" width="100" height="100">
+</div>
+
 - 👋 Hi, I’m @qaisari23
 - 👀 I’m interested in computer science and cyber security
 - 🌱 I’m currently in second year of computer science 
